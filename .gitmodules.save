@@ -1,0 +1,11 @@
+[submodule "CompanyMs"]
+   path = CompanyMs
+   url = https://github.com/AadiDev005/CompanyMs.git
+
+[submodule "jobms"]
+   path = jobms
+   url = https://github.com/AadiDev005/jobms.git
+
+[submodule "ReviewMs"]
+   path = ReviewMs
+   url = https://github.com/AadiDev005/ReviewMs.gi
